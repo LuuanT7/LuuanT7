@@ -1,4 +1,11 @@
 # 👋 Olá, eu sou o Luan Teixeira
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 🚀 Desenvolvedor Full Stack JavaScript | Node.js | React | TypeScript  
 
@@ -39,19 +46,6 @@ Atuei em **software house**, participando de diferentes tipos de projetos, arqui
 ## 🧠 Tecnologias & Ferramentas (visão geral)
 
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=LuuanT7&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
