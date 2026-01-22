@@ -1,11 +1,22 @@
 # 👋 Olá, eu sou o Luan Teixeira
-<div align="space-between">
+<div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=LuuanT7&theme=tokyonight&hide_border=true" />
+
+</div>
+## 🧠 Tecnologias & Ferramentas (visão geral)
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
+
+---
 
 🚀 Desenvolvedor Full Stack JavaScript | Node.js | React | TypeScript  
 
@@ -40,12 +51,6 @@ Atuei em **software house**, participando de diferentes tipos de projetos, arqui
 
 ### ☁️ DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🧠 Tecnologias & Ferramentas (visão geral)
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
 
 ---
 
