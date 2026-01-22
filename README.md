@@ -23,12 +23,17 @@
 ---
 
 ## Contato:
-
+<div align="start">
+  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511948782708)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luuan-teixeira/)
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luuanteixeira@hotmail.com)
+
+</div>
+
+<br clear="both" />
 
 ---
 
@@ -42,18 +47,12 @@ Atuei em **software house**, participando de diferentes tipos de projetos, arqui
 
 
 ## 📚 Em constante evolução
-Atualmente focado em:
+Atualmente estudos focado em:
 - Arquitetura de sistemas  
 - Escalabilidade  
 - Performance  
 - Mensageria (RabbitMQ, Redis)  
 - System Design  
-
----
-
-## 📫 Contato
-- 💼 LinkedIn: [*(adicione seu link aqui)* ](https://www.linkedin.com/in/luuan-teixeira/) 
-- 📧 Email: luuanteixeira@hotmail.com  
 
 ---
 
