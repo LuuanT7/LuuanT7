@@ -23,7 +23,7 @@
 ---
 
 ## Contato:
-<div align="start">
+<div align="center">
   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511948782708)
 
