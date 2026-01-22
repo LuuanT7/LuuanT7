@@ -8,7 +8,7 @@
   />  
 
   <img 
-    align="right"
+    align="left"
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" 
   />
