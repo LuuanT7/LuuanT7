@@ -44,13 +44,11 @@ Atuei em **software house**, participando de diferentes tipos de projetos, arqui
 ---
 
 
-## 📚 Em constante evolução
-Atualmente estudos focado em:
-- Arquitetura de sistemas  
-- Escalabilidade  
-- Performance  
-- Mensageria (RabbitMQ, Redis)  
-- System Design  
+ ## 📚 Atualmente focado em estudos e evolução contínua em:
+- Arquitetura de sistemas
+- System Design e escalabilidade
+- Performance e otimização
+- Mensageria e processamento assíncrono (RabbitMQ, Redis)
 
 ---
 
