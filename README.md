@@ -3,16 +3,15 @@
   <img 
     align="left" 
     src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" 
-  />
-  
+  />  
   <img 
     align="right" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </div>
+---
 
 
-<br/><br/><br/><br/><br/><br/>
 ## 🧠 Tecnologias & Ferramentas (visão geral)
 
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
