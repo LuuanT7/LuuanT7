@@ -11,9 +11,6 @@
 </div>
 ---
 
-
-## 🧠 Tecnologias & Ferramentas (visão geral)
-
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
 
 ---
