@@ -1,17 +1,18 @@
 # 👋 Olá, eu sou o Luan Teixeira
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=LuuanT7&theme=tokyonight&hide_border=true" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" 
+      />
+    </td>
+    <td width="50%" align="right">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true" 
+      />
+    </td>
+  </tr>
+</table>
 ## 🧠 Tecnologias & Ferramentas (visão geral)
 
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
