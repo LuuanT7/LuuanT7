@@ -3,61 +3,68 @@
 🚀 Desenvolvedor Full Stack JavaScript | Node.js | React | TypeScript  
 
 Sou desenvolvedor full stack com cerca de **3 anos de experiência**, atuando principalmente com **Node.js, TypeScript e React**.  
-Venho de uma **transição de carreira da área de Logística para Tecnologia**, o que me trouxe uma forte visão de processos, organização e resolução de problemas reais.
+Realizei uma **transição de carreira da Logística para a Tecnologia**, trazendo uma forte bagagem em processos, organização e visão de negócio.
 
-Já atuei em **software house**, participando de diferentes tipos de projetos, modelos de negócio e arquiteturas, o que me proporcionou uma visão ampla do ciclo completo de desenvolvimento de software.
+Atuei em **software house**, participando de diferentes tipos de projetos, arquiteturas e contextos, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software — do levantamento de requisitos à entrega.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Principal
 
 ### 💻 Back-end
-- Node.js  
-- TypeScript  
-- Express.js  
-- NestJS  
-- Prisma ORM  
-- Sequelize  
-- REST APIs  
-- WebSocket  
-- Autenticação & autorização (JWT)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🎨 Front-end
-- React.js  
-- React Hooks (nativos e customizados)  
-- Tailwind CSS  
-- Shadcn/ui  
-- HTML5 | CSS3  
-- Consumo de APIs REST  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 ### 📱 Mobile
-- React Native (experiência em projetos e estudos)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Banco de Dados
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ DevOps & Infra
-- Docker  
-- Docker Compose  
-- Serverless (conceitos e aplicações)  
-- Cloud (conceitos gerais)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧠 Arquitetura & Boas Práticas
-- Arquitetura em camadas  
-- Separação de responsabilidades  
-- Clean Code  
-- SOLID  
-- DTOs  
-- Refatoração e escalabilidade  
+---
+
+## 🧠 Tecnologias & Ferramentas (visão geral)
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,prisma,express,docker,postgres,mysql,mongodb,redis,rabbitmq,git,github" />
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LuuanT7&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuanT7&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📉 Atividade ao longo do tempo
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuuanT7&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🔹 LORSA – Sistema de Gerenciamento
-Sistema completo de gerenciamento, envolvendo:
+Sistema completo de gerenciamento, abrangendo:
 - Processamento e registro de pedidos  
 - Controle financeiro  
 - Comunicação em tempo real  
@@ -65,13 +72,13 @@ Sistema completo de gerenciamento, envolvendo:
 **Stack:**  
 - Back-end: Node.js + TypeScript + Express + Prisma + MySQL  
 - Arquitetura: Monólito com separação de responsabilidades  
-- Front-end: React, Tailwind, Shadcn, Hooks customizados  
+- Front-end: React, Tailwind, Shadcn, Hooks nativos e customizados  
 - Comunicação em tempo real com WebSocket  
 
 ---
 
-## 📈 Em constante evolução
-Estou sempre buscando evoluir em:
+## 📚 Em constante evolução
+Atualmente focado em:
 - Arquitetura de sistemas  
 - Escalabilidade  
 - Performance  
@@ -80,10 +87,10 @@ Estou sempre buscando evoluir em:
 
 ---
 
-## 📫 Como me encontrar
-- 💼 LinkedIn: *(adicione seu link aqui)*  
-- 📧 Email: *(se quiser)*  
+## 📫 Contato
+- 💼 LinkedIn: [*(adicione seu link aqui)* ](https://www.linkedin.com/in/luuan-teixeira/) 
+- 📧 Email: luuanteixeira@hotmail.com  
 
 ---
 
-⭐ Se algum projeto te ajudar, fique à vontade para deixar uma estrela!
+⭐ Se algum projeto te ajudar, considere deixar uma estrela!
