@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Luan Teixeira
-<div align="center">
+<div align="space-between">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuanT7&show_icons=true&theme=tokyonight&hide_border=true" />
 
